@@ -1,4 +1,6 @@
 * 01/08/2020 - 0500
-  * Relapsed, ate bad and stayed late.
+  * __Relapsed__, ate bad and stayed late.
 
 * 02/08/2020 - 0600
+* 04/08/2020 - 0500  
+* 05/08/2020 - 0500
