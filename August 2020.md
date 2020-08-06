@@ -4,3 +4,8 @@
 * 02/08/2020 - 0600
 * 04/08/2020 - 0500  
 * 05/08/2020 - 0500
+  * __Relapsed__, ate bad and stayed late until 0330!
+* 06/08/2020 - 0730
+  * __Relapsed__, ate kothu, roles and desserts
+* 07/08/2020 - 0500
+
