@@ -15,4 +15,6 @@
   * __Relapsed__, ate roti, rice and desserts
 
 * 08/08/2020 - 0500
-
+  * __Relapsed__, ate rice and desserts.
+  
+* 09/08/2020 - 0500
