@@ -18,3 +18,6 @@
   * __Relapsed__, ate rice and desserts.
   
 * 09/08/2020 - 0500
+  * __Relapsed__, stayed late.
+  
+* 10/08/2020 - 0600
