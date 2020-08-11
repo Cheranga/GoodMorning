@@ -24,3 +24,6 @@
   * __Relapsed__, stayed late.
   
 * 11/08/2020 - 0600  
+  * __Relapsed__, stayed late.
+
+* 12/08/2020 - 0500  
