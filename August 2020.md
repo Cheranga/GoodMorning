@@ -48,6 +48,12 @@
 * 21/08/2020 - 0400
 
 * 22/08/2020 - 0500
-  * __Relapsed__, ate rice, sweers and stayed late.
+  * __Relapsed__, ate rice, sweets and stayed late.
   
 * 23/08/2020 - 0500  
+
+* 24/08/2020 - 0500  
+  * __Relapsed__, ate sweets and stayed late.
+  
+* 25/08/2020 - 0500
+
