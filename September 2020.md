@@ -10,3 +10,9 @@
   * Relapsed, ate pizza and stayed late.
 
 * 05/09/2020 - 0600
+  * Relapsed, ate sugary food and stayed late.
+  
+* 06/09/2020 - 0600
+  * Relapsed, ate sugary food and stayed late until 0130AM.  
+
+* 07/09/2020 - 0600
