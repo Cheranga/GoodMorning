@@ -20,3 +20,15 @@
 
 * 08/09/2020 - 0445
   * Awesome feeling when you wake up in the morning.
+
+* 09/09/2020 - 0445
+  * Stayed late.
+  
+* 10/09/2020 - 0445
+  * Ate lot including sweets.
+
+* 11/09/2020 - 0545
+  * Ate a lot of bread and sweets and, stayed late.
+
+* 12/09/2020 - 0500
+
