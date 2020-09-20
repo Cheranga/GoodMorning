@@ -31,4 +31,30 @@
   * Ate a lot of bread and sweets and, stayed late.
 
 * 12/09/2020 - 0500
+  * Relapsed
+
+* 13/09/2020 - 0600
+  * Relapsed
+  
+* 14/09/2020 - 0445
+  * Relapsed
+  
+* 15/09/2020 - 0530
+  * Relapsed
+
+* 16/09/2020 - 0430
+  * Relapsed
+
+* 17/09/2020 - 0500
+
+* 18/09/2020 - 0200
+  * Relapsed
+  
+* 19/09/2020 - 0530
+  * Relapsed
+  
+* 20/09/2020 - 0500
+  * Relapsed
+
+* 21/09/2020 - 0600
 
